@@ -10,6 +10,7 @@
 #define MATRIX_COL_PINS { F6, F7, B1, B3, B2, B6 }
 #define DIODE_DIRECTION COL2ROW
 
+#define SPLIT_USB_DETECT
 #define TAPPING_TERM 100
 #define DEBOUNCE 5
 
